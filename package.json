@@ -1,0 +1,24 @@
+{
+  "name": "error-handling-orel",
+  "version": "1.0.5",
+  "description": "Error For Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twitoorel1/Error-Handling.git"
+  },
+  "keywords": [
+    "Error-Handling",
+    "Backend",
+    "API"
+  ],
+  "author": "Orel Twito",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/twitoorel1/Error-Handling/issues"
+  },
+  "homepage": "https://github.com/twitoorel1/Error-Handling#readme"
+}
